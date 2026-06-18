@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
