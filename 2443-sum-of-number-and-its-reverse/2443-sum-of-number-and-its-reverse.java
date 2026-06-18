@@ -1,21 +1,23 @@
 class Solution {
     public boolean sumOfNumberAndReverse(int num) {
-        if(num==0){
-            return true;
-        }
-        for(int i=1;i<num;i++){
-        int orgnum=num;
-        int rev=0;
-        String s=""+i;
-      String reversed = new StringBuilder(s).reverse().toString();
-      int a=Integer.parseInt(s);
-      int b=Integer.parseInt(reversed);
-      if(a+b==num){
 
-        return true;
-      }
+        for (int i = 0; i <= num; i++) {
+
+            int x = i;
+            int rev = 0;
+
+            while (x > 0) {
+int p=x%10;
+
+                rev = rev * 10 + p; 
+                x /= 10;
+            }
+
+            if (i + rev == num) {
+                return true;
+            }
         }
-        
+
         return false;
     }
-}
+} 
