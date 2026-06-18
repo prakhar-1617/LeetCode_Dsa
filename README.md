@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
