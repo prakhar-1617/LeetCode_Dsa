@@ -12,13 +12,13 @@ class Solution {
         //if invalid shrink the hashmao
         while(map.size()>2){
             map.put(fruits[left],map.get(fruits[left])-1);
-            if(map.get(fruits[left])==0){
+            if(map.get(fruits[left])==0){   //agr kisi ka count 0 ho gya to usko htana bhi pdega na hah table se
                 map.remove(fruits[left]);
             }
             left++;
         }
 
-        if(map.size()<=2){
+        if(map.size()<=2){   //truecondition ke liye
             len=right-left+1;
             max=Math.max(max,len);
         }
