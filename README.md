@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
