@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 ## Database
 |  |
 | ------- |
