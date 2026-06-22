@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -55,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
