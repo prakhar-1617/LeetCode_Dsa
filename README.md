@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
