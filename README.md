@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
