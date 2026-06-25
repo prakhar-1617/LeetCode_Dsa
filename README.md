@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1108-defanging-an-ip-address](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
