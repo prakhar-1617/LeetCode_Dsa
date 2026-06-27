@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
