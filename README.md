@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Array
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
