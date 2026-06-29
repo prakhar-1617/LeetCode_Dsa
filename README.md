@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0071-simplify-path) |
