@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
