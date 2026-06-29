@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0682-baseball-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
