@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
