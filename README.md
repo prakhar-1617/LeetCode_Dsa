@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
 |  |
