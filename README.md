@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
