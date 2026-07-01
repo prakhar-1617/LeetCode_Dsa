@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
