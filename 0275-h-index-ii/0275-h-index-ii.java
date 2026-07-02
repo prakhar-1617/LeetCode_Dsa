@@ -1,18 +1,32 @@
 class Solution {
     public int hIndex(int[] citations) {
+           int l=0;
+        int h=citations.length-1;
+        int n=citations.length;
         int ans=0;
-        // int left=0;
-        // int right=citations.length;
-        // while(left<=right){
-        //     int mid=left+(right-left)/2;
-        //     int paper=
-        // }
-
-        for(int i=0;i<citations.length;i++){
-            if(citations[i]>=citations.length-i){
-                return citations.length-i;
+        while(l<=h)
+        {
+            int mid=l+(h-l)/2;
+            if(citations[mid]>=n-mid)
+            {
+                ans=n-mid;
+                h=mid-1;
+            }
+            else
+            {
+                l=mid+1;
             }
         }
-        return 0;
+        return ans;
+       
+
+        // for(int i=0;i<citations.length;i++){
+        //     if(citations[i]>=citations.length-i){
+        //         return citations.length-i;
+        //     }
+        // }
+        // return 0;
+
+      
     }
 }
