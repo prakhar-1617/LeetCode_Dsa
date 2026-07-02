@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -312,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0278-first-bad-version](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
