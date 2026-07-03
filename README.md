@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
