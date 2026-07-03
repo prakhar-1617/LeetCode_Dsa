@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2208-minimum-operations-to-halve-array-sum) |
