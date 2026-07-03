@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0134-gas-station) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
