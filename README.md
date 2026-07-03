@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2073-time-needed-to-buy-tickets) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Union-Find
 |  |
 | ------- |
