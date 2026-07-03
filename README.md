@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0275-h-index-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0367-valid-perfect-square) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
