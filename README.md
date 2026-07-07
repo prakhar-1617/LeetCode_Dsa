@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0175-combine-two-tables) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1280-students-and-examinations) |
