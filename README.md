@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -365,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
