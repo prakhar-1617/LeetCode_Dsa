@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0860-lemonade-change) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
