@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Two Pointers
 |  |
