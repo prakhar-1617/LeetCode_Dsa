@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 ## Design
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 ## Interactive
 |  |
