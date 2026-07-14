@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0141-linked-list-cycle) |
 | [0475-heaters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 ## Design
 |  |
