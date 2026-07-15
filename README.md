@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0182-duplicate-emails](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0182-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0620-not-boring-movies) |
