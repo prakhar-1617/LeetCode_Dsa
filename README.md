@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0844-backspace-string-compare) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
