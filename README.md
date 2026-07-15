@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1695-maximum-erasure-value) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1695-maximum-erasure-value) |
 ## Database
 |  |
 | ------- |
