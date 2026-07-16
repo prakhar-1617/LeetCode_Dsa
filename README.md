@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1678-goal-parser-interpretation](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2000-reverse-prefix-of-word) |
