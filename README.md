@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-convert-the-temperature](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
