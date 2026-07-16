@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1592-rearrange-spaces-between-words](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1678-goal-parser-interpretation](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1678-goal-parser-interpretation) |
