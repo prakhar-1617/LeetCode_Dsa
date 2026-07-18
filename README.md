@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0970-powerful-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0970-powerful-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
