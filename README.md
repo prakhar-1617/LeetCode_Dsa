@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2028-find-missing-observations) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2413-smallest-even-multiple) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2028-find-missing-observations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
+| [2028-find-missing-observations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2028-find-missing-observations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
