@@ -7,7 +7,7 @@ class Solution {
         }
         for(int i=0;i<nums.length;i++){
            
-            if(i>maxidx){
+            if(i>maxidx){  //Agar current index hi reachable nahi hai (i > maxidx), to aage kabhi bhi nahi ja paoge.Isliye directly false.
             return false;
         }
          maxidx=Math.max(nums[i]+i,maxidx);
