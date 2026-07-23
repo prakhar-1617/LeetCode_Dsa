@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 ## Interactive
