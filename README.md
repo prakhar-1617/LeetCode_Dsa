@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2443-sum-of-number-and-its-reverse](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3285-find-indices-of-stable-mountains](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3285-find-indices-of-stable-mountains) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0389-find-the-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
 | ------- |
