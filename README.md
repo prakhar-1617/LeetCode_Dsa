@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0475-heaters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
