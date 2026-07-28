@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0475-heaters) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0055-jump-game) |
 | [0413-arithmetic-slices](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
