@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Union-Find
 |  |
 | ------- |
