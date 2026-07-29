@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0970-powerful-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0970-powerful-integers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0791-custom-sort-string) |
 | [0844-backspace-string-compare](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1108-defanging-an-ip-address) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0791-custom-sort-string) |
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
