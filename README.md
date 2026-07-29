@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0970-powerful-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1952-three-divisors](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2028-find-missing-observations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
 | ------- |
