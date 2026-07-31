@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
