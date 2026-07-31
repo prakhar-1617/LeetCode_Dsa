@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
