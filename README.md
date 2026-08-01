@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
