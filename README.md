@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
