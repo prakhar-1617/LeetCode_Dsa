@@ -517,10 +517,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0046-permutations) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
