@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0970-powerful-integers) |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1732-find-the-highest-altitude) |
@@ -499,10 +502,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0413-arithmetic-slices](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
@@ -543,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
