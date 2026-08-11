@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3285-find-indices-of-stable-mountains](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3285-find-indices-of-stable-mountains) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2716-minimize-string-length) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3536-maximum-product-of-two-digits) |
