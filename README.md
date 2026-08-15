@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3285-find-indices-of-stable-mountains](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3285-find-indices-of-stable-mountains) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0476-number-complement](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakhar-1617/LeetCode_Dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
